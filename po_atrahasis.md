@@ -1,49 +1,61 @@
-# Poem of Atrahasis 
+# Poem of Atrahasis
 
-The **Poem of Atrahasis** (also called the *Epic of Atraḫasis* or the *Flood Poem*) is an ancient Mesopotamian myth, written in Akkadian on clay tablets (around the 17th century BCE, Old Babylonian period). It is one of the main sources that tells of the creation of mankind and a great flood, similar to the one later found in the *Epic of Gilgamesh* and in the Bible.
+The **Poem of Atrahasis** (also called the _Epic of Atraḫasis_ or the _Flood Poem_) is an ancient Mesopotamian myth, written in Akkadian on clay tablets (around the 17th century BCE, Old Babylonian period). It is one of the main sources that tells of the creation of mankind and a great flood, similar to the one later found in the _Epic of Gilgamesh_ and in the Bible.
 
 In short:
 
-* **The minor gods** were forced to work hard to maintain the universe. Tired, they rebelled.
-* **Enki/Ea** then suggested creating humans, shaped from clay and divine blood, to take over the labor.
-* Humans multiplied, made noise, and disturbed the supreme god **Enlil**.
-* To reduce the population, the gods sent plagues and famines, but Enki helped Atrahasis (“the very wise one”) survive.
-* Finally, Enlil decided to wipe out humankind with a **great flood**.
-* Enki secretly warned Atrahasis and told him to build an ark to save himself, his family, and animals.
-* After the flood, the gods regretted the destruction, and new rules were established to limit human growth (mortality, infertility, and figures such as consecrated priestesses who could not bear children).
+-   **The minor gods** were forced to work hard to maintain the universe. Tired, they rebelled.
+-   **Enki/Ea** then suggested creating humans, shaped from clay and divine blood, to take over the labor.
+-   Humans multiplied, made noise, and disturbed the supreme god **Enlil**.
+-   To reduce the population, the gods sent plagues and famines, but Enki helped Atrahasis (“the very wise one”) survive.
+-   Finally, Enlil decided to wipe out humankind with a **great flood**.
+-   Enki secretly warned Atrahasis and told him to build an ark to save himself, his family, and animals.
+-   After the flood, the gods regretted the destruction, and new rules were established to limit human growth (mortality, infertility, and figures such as consecrated priestesses who could not bear children).
 
 It’s interesting because:
 
-* It predates *Gilgamesh* and the biblical Genesis, and probably served as a source of inspiration for both.
-* It shows the Mesopotamian view of humanity: created as servants of the gods.
-* It has both an epic structure and a “political” dimension, since it tries to explain the existence of death, diseases, and sterility.
+-   It predates _Gilgamesh_ and the biblical Genesis, and probably served as a source of inspiration for both.
+-   It shows the Mesopotamian view of humanity: created as servants of the gods.
+-   It has both an epic structure and a “political” dimension, since it tries to explain the existence of death, diseases, and sterility.
 
 The **Poem of Atrahasis** has come down to us in a **fragmentary form**.
 
-* **Original length**:
-  It was composed of **three main clay tablets** (I, II, III), each with about 30–40 columns of text (roughly 100 lines per tablet). In total, around **900–1200 lines**.
+-   **Original length**:
+    It was composed of **three main clay tablets** (I, II, III), each with about 30–40 columns of text (roughly 100 lines per tablet). In total, around **900–1200 lines**.
 
-* **What has been translated**:
+-   **What has been translated**:
 
-  * **Tablet I** (the creation and the rebellion of the minor gods, up to the birth of humankind) is **almost complete**.
-  * **Tablet II** (the multiplication of humans, plagues, famines) is **partially preserved**, with some gaps.
-  * **Tablet III** (the flood and the new order of humanity) is **very fragmentary**, but the flood narrative has been reconstructed partly thanks to parallel versions in the *Epic of Gilgamesh* and later texts.
+    -   **Tablet I** (the creation and the rebellion of the minor gods, up to the birth of humankind) is **almost complete**.
+    -   **Tablet II** (the multiplication of humans, plagues, famines) is **partially preserved**, with some gaps.
+    -   **Tablet III** (the flood and the new order of humanity) is **very fragmentary**, but the flood narrative has been reconstructed partly thanks to parallel versions in the _Epic of Gilgamesh_ and later texts.
 
-* **What has been lost**:
+-   **What has been lost**:
 
-  * Many lines from Tablets II and III are **missing or illegible**.
-  * The exact details of the **dialogue between Enki and Atrahasis** and the full description of the ark are not preserved.
-  * We know the ending must have explained social and religious institutions (such as mortality, infertility, consecrated priestesses), but these parts survive only in fragments and parallels.
+    -   Many lines from Tablets II and III are **missing or illegible**.
+    -   The exact details of the **dialogue between Enki and Atrahasis** and the full description of the ark are not preserved.
+    -   We know the ending must have explained social and religious institutions (such as mortality, infertility, consecrated priestesses), but these parts survive only in fragments and parallels.
 
-* **Surviving sources**:
+-   **Surviving sources**:
 
-  * Copies from the 17th century BCE (Old Babylonian period).
-  * Later copies (Assyrian and Neo-Babylonian periods), which helped philologists fill some gaps.
+    -   Copies from the 17th century BCE (Old Babylonian period).
+    -   Later copies (Assyrian and Neo-Babylonian periods), which helped philologists fill some gaps.
 
 In short: we have about **two-thirds of the poem** readable and translatable, while the last third survives only in fragments.
 
 ---
 
+## Summary
+
+The _Poem of Atrahasis_ tells how humanity was created and why it suffers mortality and hardship.
+
+-   In the beginning, the lesser gods were burdened with heavy labor to sustain the cosmos. Tired of their toil, they rebelled.
+-   To solve this, the god Enki suggested creating humans from clay mixed with divine blood, so that mankind would take over the work.
+-   Humanity prospered, but their growing numbers and constant noise disturbed Enlil, the chief god.
+-   Enlil tried to curb them with plagues and famine, yet Atrahasis, guided by Enki, helped the people survive.
+-   Enlil then resolved to destroy mankind with a great flood. Enki secretly warned Atrahasis, instructing him to build an ark and save his family, animals, and seeds.
+-   The flood devastated the earth, but Atrahasis survived. When it ended, he offered sacrifices, and the gods—regretful and hungry for offerings—accepted humanity’s survival.
+-   To restore balance, they imposed new limits: mortality, infertility, sickness, and consecrated women without children.
+-   Thus, the poem explains not only the origin of humanity but also why human life is finite and bound by suffering, while maintaining a fragile relationship with the gods.
 
 **ATRahASIS — TABLET I: THE MAKING OF MANKIND**
 
@@ -836,7 +848,3 @@ Where clay and divine found a boundary true,<br/>
 A fragile agreement, forever renewed.
 
 ---
-
-
-
-
